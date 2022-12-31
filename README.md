@@ -4,7 +4,7 @@ An Agent Based Simulation of the COVID19 infectivity using the classic SIR (Susc
 ## Directory guide
 * The `Code` directory contains `Model.py` and `Run.py`
 * `Model.py` contains the SIR model implementation using the `mesa` Python library. Contains class definitions for Model and Agents.  
-* `Run.py` creates the data visualisation, and hosts the simulation on a web server (See figure below)
+* `Run.py` creates the data visualisation, and hosts the simulation GUI on a web server (See figure below)
 * Run the `Run.py` file to start the simulation 
 
 ![image](https://user-images.githubusercontent.com/115394445/210131600-2b1aea95-a3b7-4d8a-8e1c-639c527ff36b.png)
